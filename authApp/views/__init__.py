@@ -1,0 +1,4 @@
+from .userCreateView import UserCreateView
+from .userDetailView import UserDetailView
+from .transactionsView import TransactionsCreateView,TransactionsDetailView,TransactionsAccountView,TransactionsDeleteView,TransactionsUpdateView
+from .facturaView import FacturaCreateView, FacturaDetailView, FacturaUpdateView, FacturaDeleteView
